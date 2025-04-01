@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Vue and NodeJs**
+- 💬 Ask me about **React, TypeScript and NodeJs**
 
 - 📫 How to reach me **jamshidzayniev10@gmail.com**
 
