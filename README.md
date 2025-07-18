@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshid-zayniyev&label=Profile%20views&color=0e75b6&style=flat" alt="jamshid-zayniyev" /> </p>
 
-- 🔭 I’m currently working on **Soft Service**
+- 🔭 I’m currently working on **ATS**
 
 - 🌱 I’m currently learning **React Native**
 
