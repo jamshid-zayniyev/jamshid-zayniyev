@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamshid Zayniyev</h1>
-<h3 align="center">Senior Frontend Engineer | React.js • Next.js • TypeScript • Scalable Web Applications</h3>
+<h3 align="center">Frontend Engineer | React.js • Next.js • TypeScript • Scalable Web Applications</h3>
 
 <p align="center">
 Building high-performance, scalable, and user-focused digital products with modern frontend architecture.
