@@ -15,7 +15,7 @@ Building high-performance, scalable, and user-focused digital products with mode
 
 ## 🚀 About Me
 
-- 💼 Senior Frontend Engineer with 5+ years of experience building production-ready applications
+- 💼 Frontend Engineer with 5+ years of experience building production-ready applications
 - 🔭 Currently working at **ATS**
 - ⚡ Specialized in **React.js, Next.js, TypeScript, Frontend Architecture**
 - 🌱 Currently exploring **React Native** and advanced backend systems with **Node.js**
