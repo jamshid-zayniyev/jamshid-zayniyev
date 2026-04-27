@@ -59,7 +59,7 @@ Building high-performance, scalable, and user-focused digital products with mode
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 </a>
 
