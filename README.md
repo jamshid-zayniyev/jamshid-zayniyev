@@ -29,7 +29,6 @@
 
 ## 🛠 Tech Stack
 
-<!-- Tech icons row - using HTML table for guaranteed horizontal layout -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -143,6 +142,11 @@
     <td align="center">
       <a href="https://www.upwork.com/freelancers/~015d19a26c2153b9d2" target="_blank">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@jamzayn10" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
       </a>
     </td>
   </tr>
